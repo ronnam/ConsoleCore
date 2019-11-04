@@ -1,0 +1,32 @@
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.exe
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.deps.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.dev.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csprojAssemblyReference.cache
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfo.cs
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\FullStackAspNETCore 2.2WebAPIAngular7EntityFrameworkCore2.2IdentityCore2\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csproj.CopyComplete
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.exe
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.deps.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.dev.json
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csprojAssemblyReference.cache
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfo.cs
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csproj.CopyComplete
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\SempreIT\OneDrive - Sempre IT\Estudos\Udemy\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.pdb
